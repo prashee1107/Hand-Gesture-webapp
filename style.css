@@ -1,0 +1,30 @@
+.heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 7px;
+    font-family: 'Abril Fatface', cursive;
+}
+.hand_gestures_inmodel_text{
+   font-size: 30px; 
+   font-family: 'Elsie Swash Caps', cursive;
+}
+.hand_gestures_inmodel_icon{
+    font-size: 30px;
+}
+#camera,#result{
+    border: 2px dotted white;
+    width: 300px;
+    height: 250px;
+   background-color: black;
+   
+}
+body{
+   background-color: rgb(186, 127, 241);
+}
+.view_camera{
+    padding-left: 300px;
+}
+#prediction,#result_icon,#result_text{
+    font-size: 20px;
+    color: white;
+}
